@@ -14,6 +14,8 @@ MySQL Connector:
 
 The mysql-connector-python library is used to connect the Python application to the MySQL database.
 It provides functionalities for executing SQL queries, fetching data, and handling database transactions.
+
+
 Major functions used
 1.add
 2.update
